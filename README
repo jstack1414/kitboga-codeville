@@ -1,0 +1,6 @@
+This script enables slow mode which prevents the user from typing more than one charected every X seconds. 
+If they type to fast then the timer resets.
+
+Enable: alt+s
+Disable: atl+f (enables fast mode which just passes the hotkey charecter through)
+Close: alt+esc
